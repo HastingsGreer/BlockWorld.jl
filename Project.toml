@@ -1,0 +1,10 @@
+name = "BlockWorld"
+uuid = "592580de-9caa-4924-8f54-e971990ff5f1"
+authors = ["Hastings Greer <hastings.greer@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
